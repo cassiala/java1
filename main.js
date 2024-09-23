@@ -8,7 +8,9 @@ function areaquadrado(lado){
 }
 console.log(areaquadrado(3));
 
-let areatriangulo=function(2,3){
+let areatriangulo=function(parâmetro){
     resturn (2,3)/2;
 }
 console.log(areatriangulo(2,3));
+let lais=prompt('qual é seu nome?');
+document WritableStream();
