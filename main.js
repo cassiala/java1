@@ -6,4 +6,4 @@ console.log(soma(2,3));
 function areaquadrado(lado){
     return lado**2;
 }
-console.log(areaquadrado(5));
+console.log(areaquadrado(3));
