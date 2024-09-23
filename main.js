@@ -12,3 +12,8 @@ let areatriangulo=function(parâmetro){
     resturn (2,3)/2;
 }
 console.log(areatriangulo(2,3));
+
+let nome=parseInt(prompt('qual é seu numero?');
+let nome=parseInt(prompt('qual é seu segundo numero de residencia?');
+let nome=parseInt(prompt('numero do responsavel?');
+document.write()
