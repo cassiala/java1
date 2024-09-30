@@ -27,3 +27,11 @@ while(i< estados.length) {
     console.log(estados[i]);
     i=i+1;
  }
+ let idade=ParseInt(prompt('qual a sua idade?'));
+ if (idade>17){
+    console.log('ja pode dirigir');
+
+ }
+ else{
+    console.log('ilegal dirigir');
+ }
