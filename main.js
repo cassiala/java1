@@ -35,3 +35,6 @@ while(i< estados.length) {
  else{
     console.log('ilegal dirigir');
  }
+ for(let i=0,i<estados.length,i++){
+    console.log(estados[i])
+ }
