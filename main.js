@@ -21,3 +21,7 @@
 //     return 
 // } 
 let estados =['Paraná','Maranhão','Piauí','Ceará','Rio Grande do Norte','Paraíba','Pernambuco','Alagoas','Sergipe','Recife','Roraima','Amazonas','Santa Catarina','Acre','Amapá','Espírito Santo','Rj','Sp','Pará','Rio Grande do Sul','Goías','Tocantins','Fortaleza','Mato Gorsso','Mato Grosso do Sul','Ceará','Distrito Federal']
+let i=0;
+while(i<10) {
+    console.log(i);
+    i=i+1; }
