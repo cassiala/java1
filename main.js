@@ -24,6 +24,6 @@ let estados =['Paraná','Maranhão','Piauí','Ceará','Rio Grande do Norte','Par
 let i=0;
 while(i< estados.length) {
     console.log(i);
-    console.log(estado[i]);
+    console.log(estados[i]);
     i=i+1;
  }
